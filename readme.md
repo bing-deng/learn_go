@@ -1,7 +1,11 @@
 ### readme
 
-
-* [doc](https://github.com/gin-gonic/gin)
+### go
+* [learnxinyminutes](https://learnxinyminutes.com/docs/go/)
+* [runoob](https://www.runoob.com/go/go-tutorial.html)
+* [go playground](https://play.golang.org/)
+### gin
+* [gin doc](https://github.com/gin-gonic/gin)
 * ``$ go get -u github.com/gin-gonic/gin``
 * ``go run example.go``
 
